@@ -12,8 +12,11 @@
 
 ## :exclamation: Introducción
 
+![Boceto](/home/marcosbernal/Descargas/foto.png)
+
 Nuestra aplicación como proyecto final se tratará de realizar una liga fantasy de la **Premier League** (la primera division de inglaterra).
 Nos basaremos es las aplicaciones ya existentes como Laliga Fantasy.
+Aquí mostramos un ejemplo de una aplicación parecida. [Biwenger](https://biwenger.as.com/?lang=es)
 
 ## 	:bar_chart: Características
 
